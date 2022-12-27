@@ -27,3 +27,9 @@
 .intro{
     color: white;
 }
+
+/*services*/
+.services img{
+    max-height: 100px;
+    border-radius: 10px;
+}
