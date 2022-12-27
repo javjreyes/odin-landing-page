@@ -1,6 +1,16 @@
+/*background color*/
+.greenWrap{
+    background-color: rgb(28,119,42);
+}
+.greyWrap{
+    background-color: grey;
+}
+.blueWrap{
+    background-color: rgb(31, 112, 233);
+}
+
 /*navigation bar*/
 .navbar{
-    background-color: rgb(28, 119, 42);
     color: white;
 }
 .navbar a{
@@ -13,3 +23,7 @@
     text-decoration:underline;
 }
 
+/*intro*/
+.intro{
+    color: white;
+}
