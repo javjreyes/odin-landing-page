@@ -28,7 +28,15 @@
     color: white;
 }
 
+/*information*/
+.information{
+    font-weight: bold;
+}
+
 /*services*/
+.services{
+    font-weight: bold;
+}
 .services img{
     max-height: 100px;
     border-radius: 10px;
