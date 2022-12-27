@@ -1,0 +1,15 @@
+/*navigation bar*/
+.navbar{
+    background-color: rgb(28, 119, 42);
+    color: white;
+}
+.navbar a{
+    text-decoration: none;
+    color:white;
+    font-size: 13px;
+    margin-right:10px;
+}
+.navbar a:hover{
+    text-decoration:underline;
+}
+
